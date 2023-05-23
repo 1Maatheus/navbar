@@ -21,31 +21,11 @@ a:hover {
   color: #fff;
 }
 
-#home .home a {
-  background-position: right bottom;
-  background-color: #f99200;
-  color: #fff;
-}
-
-#contato .contato a {
-  background-position: right bottom;
-  background-color: #f99200;
-  color: #fff;
-}
-
-#sobre .sobre a {
-  background-position: right bottom;
-  background-color: #f99200;
-  color: #fff;
-}
-
-#servicos .servicos a {
-  background-position: right bottom;
-  background-color: #f99200;
-  color: #fff;
-}
-
-#noticias .noticias a {
+#home #navegacao .home a,
+#contato #navegacao .contato a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a {
   background-position: right bottom;
   background-color: #f99200;
   color: #fff;
